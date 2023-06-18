@@ -1,7 +1,10 @@
 #!/bin/bash
 
-# sourcefiles=("chengyu10k.txt" "advice.txt")
+# an array of files with quotes separated by newlines
+# sourcefiles=("advice.txt" "chengyu10k.txt")
 sourcefiles=("advice.txt")
+
+# parse files into a single array of quotes
 quotes=()
 for file in "${sourcefiles[@]}"
 do
