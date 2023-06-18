@@ -1,5 +1,23 @@
 # LuckySays
 Birthday gift for Steve Li, a script that gives you a little wisdom or motivation whenever you need it.
+```
+$ luckysays
+                               __
+                     /\    .-" /
+                    /  ; .'  .'
+                   :   :/  .'   Lucky Says
+                    \  ;-.'
+       .--""""--..__/     `.       We're thinking of you! - Ruby and Caleb
+     .'           .'    `o  \
+    /                    `   ;  |/
+   :                  \      :
+ .-;        -.         `.__.-'
+:  ;          \     ,   ;
+'._:           ;   :   (
+    \/  .__    ;    \   `-.
+     ;     "-,/_..--"`-..__)
+     '""--.._:
+```
 
 ### To Use
 1. Clone the repo wherever convenient.
