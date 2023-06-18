@@ -21,7 +21,7 @@ quote="${quotes[$index]}"
 
 # print the ASCII art with the quote
 cat << EOF
-                               __
+                              __
                      /\\    .-" /
                     /  ; .'  .' 
                    :   :/  .'   Lucky Says
